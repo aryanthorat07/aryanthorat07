@@ -26,12 +26,11 @@
 <a href="https://www.linkedin.com/in/aryan-thorat-b03a49313">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
-</a>
-</p>
 <a href="mailto:aryanthorat772@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
+
 ---
 
 ## 💻 Tech Stack
