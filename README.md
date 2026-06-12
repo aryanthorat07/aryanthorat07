@@ -3,7 +3,8 @@
 <h3 align="center">🚀 Aspiring DevOps Engineer | ☁️ Cloud Computing Enthusiast</h3>
 
 <p align="center">
-Computer Engineering Diploma Student passionate about Cloud, Linux, Automation, and DevOps.
+🎓Computer Diploma Student
+  📍 Kopargaon,India
 </p>
 
 ---
@@ -24,6 +25,7 @@ Computer Engineering Diploma Student passionate about Cloud, Linux, Automation, 
 <p align="left">
 <a href="https://www.linkedin.com/in/aryan-thorat-b03a49313">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  📧 Email: [aryanthorat772@gmail.com](mailto:aryanthorat772@gmail.com)
 </a>
 </p>
 
